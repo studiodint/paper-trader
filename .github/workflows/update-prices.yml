@@ -1,0 +1,40 @@
+name: Update stock prices
+
+on:
+  schedule:
+    # 10pm UTC, Mon-Fri = a bit after the US market closes (4pm ET), same
+    # timing the app used before. GitHub Actions cron is UTC-only and can
+    # run a few minutes late at busy times -- that's fine for a once-a-day
+    # refresh like this.
+    - cron: "0 22 * * 1-5"
+  # Lets you trigger a run by hand from the Actions tab, useful for testing
+  # right after setup instead of waiting for the schedule.
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Fetch today's prices
+        run: python3 scripts/update_prices.py
+
+      - name: Commit and push if prices.json changed
+        run: |
+          git config user.name "paper-trader-price-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- prices.json; then
+            echo "No price changes -- nothing to commit."
+          else
+            git add prices.json
+            git commit -m "Update stock prices"
+            git push
+          fi
