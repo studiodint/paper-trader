@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "price": 333.02,
-    "prevClose": 337.02,
+    "price": 330.32,
+    "prevClose": 335.92,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -46,13 +46,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 333.02
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 330.32
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "MSFT": {
-    "price": 512.9,
-    "prevClose": 500.59,
+    "price": 512.8,
+    "prevClose": 497.93,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -97,13 +101,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 512.9
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 512.8
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "GOOGL": {
-    "price": 344.08,
-    "prevClose": 337.83,
+    "price": 338.24,
+    "prevClose": 342.36,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -148,13 +156,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 344.08
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 338.24
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "META": {
-    "price": 725.18,
-    "prevClose": 744.1,
+    "price": 725.93,
+    "prevClose": 777.59,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -199,13 +211,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 725.18
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 725.93
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "TSLA": {
-    "price": 354.81,
-    "prevClose": 380.12,
+    "price": 354.11,
+    "prevClose": 377.94,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -250,13 +266,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 354.81
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 354.11
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "NVDA": {
-    "price": 228.38,
-    "prevClose": 225.51,
+    "price": 230.86,
+    "prevClose": 224.58,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -301,13 +321,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 228.38
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 230.86
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "AMD": {
-    "price": 611.76,
-    "prevClose": 614.61,
+    "price": 615.73,
+    "prevClose": 629.26,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -352,13 +376,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 611.76
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 615.73
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "DIS": {
-    "price": 104.9,
-    "prevClose": 103.46,
+    "price": 101.33,
+    "prevClose": 105.56,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -403,13 +431,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 104.9
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 101.33
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "NFLX": {
-    "price": 69.58,
-    "prevClose": 71.36,
+    "price": 67.85,
+    "prevClose": 71.72,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -454,13 +486,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 69.58
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 67.85
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "RBLX": {
-    "price": 42.37,
-    "prevClose": 48.99,
+    "price": 43.0,
+    "prevClose": 48.83,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -505,13 +541,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 42.37
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 43.0
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "SPOT": {
-    "price": 487.38,
-    "prevClose": 510.4,
+    "price": 491.4,
+    "prevClose": 511.38,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -556,13 +596,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 487.38
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 491.4
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "NTDOY": {
-    "price": 12.53,
-    "prevClose": 13.12,
+    "price": 12.47,
+    "prevClose": 12.81,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -607,13 +651,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 12.53
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 12.47
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "TTWO": {
-    "price": 207.5,
-    "prevClose": 206.32,
+    "price": 203.62,
+    "prevClose": 202.98,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -658,13 +706,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 207.5
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 203.62
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "WBD": {
     "price": 30.95,
-    "prevClose": 30.76,
+    "prevClose": 30.84,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -709,13 +761,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 30.95
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 30.95
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "AMZN": {
-    "price": 249.15,
-    "prevClose": 249.27,
+    "price": 248.23,
+    "prevClose": 249.38,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -760,13 +816,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 249.15
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 248.23
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "NKE": {
-    "price": 35.4,
-    "prevClose": 36.05,
+    "price": 35.15,
+    "prevClose": 35.99,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -811,13 +871,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 35.4
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 35.15
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "MCD": {
-    "price": 230.94,
-    "prevClose": 238.32,
+    "price": 231.83,
+    "prevClose": 237.02,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -862,13 +926,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 230.94
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 231.83
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "SBUX": {
-    "price": 93.96,
-    "prevClose": 94.14,
+    "price": 94.88,
+    "prevClose": 93.65,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -913,13 +981,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 93.96
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 94.88
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "KO": {
-    "price": 86.08,
-    "prevClose": 88.09,
+    "price": 86.1,
+    "prevClose": 88.1,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -964,13 +1036,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 86.08
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 86.1
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "CMG": {
-    "price": 31.95,
-    "prevClose": 32.71,
+    "price": 32.32,
+    "prevClose": 32.01,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1015,13 +1091,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 31.95
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 32.32
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "PEP": {
-    "price": 126.72,
-    "prevClose": 130.18,
+    "price": 125.6,
+    "prevClose": 128.15,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1066,13 +1146,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 126.72
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 125.6
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "DUOL": {
-    "price": 142.4,
-    "prevClose": 145.98,
+    "price": 146.57,
+    "prevClose": 147.75,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1117,13 +1201,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 142.4
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 146.57
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "CAVA": {
-    "price": 54.1,
-    "prevClose": 53.1,
+    "price": 54.4,
+    "prevClose": 53.51,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1168,13 +1256,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 54.1
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 54.4
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "CELH": {
-    "price": 27.35,
-    "prevClose": 29.18,
+    "price": 27.41,
+    "prevClose": 28.43,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1219,13 +1311,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 27.35
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 27.41
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "ELF": {
-    "price": 100.97,
-    "prevClose": 100.78,
+    "price": 104.09,
+    "prevClose": 100.57,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1270,13 +1366,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 100.97
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 104.09
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "RDDT": {
-    "price": 142.44,
-    "prevClose": 151.98,
+    "price": 149.53,
+    "prevClose": 152.72,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1321,13 +1421,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 142.44
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 149.53
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "HOOD": {
-    "price": 112.5,
-    "prevClose": 122.7,
+    "price": 111.15,
+    "prevClose": 120.82,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1372,13 +1476,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 112.5
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 111.15
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "ONON": {
-    "price": 29.61,
-    "prevClose": 30.16,
+    "price": 30.2,
+    "prevClose": 30.46,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1423,13 +1531,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 29.61
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 30.2
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "SOFI": {
-    "price": 15.72,
-    "prevClose": 16.55,
+    "price": 15.84,
+    "prevClose": 16.8,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1474,13 +1586,17 @@
       {
         "d": "Oct 1, 2026",
         "c": 15.72
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 15.84
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   },
   "PLTR": {
-    "price": 187.05,
-    "prevClose": 191.79,
+    "price": 190.04,
+    "prevClose": 192.59,
     "history": [
       {
         "d": "Sep 18, 2026 market close",
@@ -1525,8 +1641,12 @@
       {
         "d": "Oct 1, 2026",
         "c": 187.05
+      },
+      {
+        "d": "Oct 2, 2026",
+        "c": 190.04
       }
     ],
-    "updatedAt": "Oct 1, 2026 market close"
+    "updatedAt": "Oct 2, 2026 market close"
   }
 }
